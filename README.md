@@ -28,11 +28,11 @@ It uses **RAG architecture** to retrieve relevant information, rerank responses,
 
 Here’s a quick look at the Ayurveda Chat Assistant in action 👇  
 
-<video src="Ayurveda-Chat-Assistant/assets/ayurveda-chat-demo - Copy.gif" width="100%" controls muted loop>
-  Your browser does not support the video tag.
-</video>
+![Ayurveda Chat Assistant Demo](assets/ayurveda-chat-demo%20-%20Copy.gif)
 
-*(If the video doesn’t play, ensure the `.mp4` file is uploaded to `/assets/` and named exactly `ayurveda-chat-demo.mp4`.)*
+*(The animated preview above is stored in `/assets/`. For better resolution, you can also include the full `.mp4` demo link below.)*  
+
+
 
 ---
 
