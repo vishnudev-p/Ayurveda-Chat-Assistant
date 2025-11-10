@@ -128,7 +128,7 @@ export default function Chat() {
 
     try {
       const response = await fetch(
-        "https://machineless-saran-torquate.ngrok-free.dev/generate",
+        "https://your-ngrok-link.ngrok-free.app",
         {
           method: "POST",
           headers: {
