@@ -28,7 +28,7 @@ It uses **RAG architecture** to retrieve relevant information, rerank responses,
 
 Here’s a quick look at the Ayurveda Chat Assistant in action 👇  
 
-<video src="assets/ayurveda-chat-demo.mp4" width="100%" controls muted loop>
+<video src="assets/ayurveda-chat-demo - Copy.gif" width="100%" controls muted loop>
   Your browser does not support the video tag.
 </video>
 
