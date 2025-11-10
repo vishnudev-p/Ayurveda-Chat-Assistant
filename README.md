@@ -24,15 +24,15 @@ It uses **RAG architecture** to retrieve relevant information, rerank responses,
 - **MongoDB** for secure and efficient vector storage  
 
 ---
-
 ## 🎥 Demo Interface
 
 Here’s a quick look at the Ayurveda Chat Assistant in action 👇  
 
-<video src="assets/ayurveda-chat-demo.mp4" controls="controls" width="100%" height="auto"></video>
+<video src="assets/ayurveda-chat-demo.mp4" width="100%" controls muted loop>
+  Your browser does not support the video tag.
+</video>
 
-*(The video above will play directly in GitHub UI. If it doesn’t, ensure the `.mp4` file is committed to `/assets/` folder in your repository.)*
-
+*(If the video doesn’t play, ensure the `.mp4` file is uploaded to `/assets/` and named exactly `ayurveda-chat-demo.mp4`.)*
 
 ---
 
