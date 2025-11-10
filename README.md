@@ -30,7 +30,7 @@ Here’s a quick look at the Ayurveda Chat Assistant in action 👇
 
 ![Ayurveda Chat Assistant Demo](assets/ayurveda-chat-demo%20-%20Copy.gif)
 
-*(The animated preview above is stored in `/assets/`. For better resolution, you can also include the full `.mp4` demo link below.)*  
+*(The animated preview above is stored in `/assets/`. For better resolution, you can also see the full `.mp4` demo from there.)*  
 
 
 
