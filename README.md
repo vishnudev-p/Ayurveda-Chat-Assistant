@@ -33,6 +33,7 @@ Here’s a quick look at the Ayurveda Chat Assistant in action 👇
 
 *(The video above will play directly in GitHub UI. If it doesn’t, ensure the `.mp4` file is committed to `/assets/` folder in your repository.)*
 
+
 ---
 
 ## 🌟 Key Features
