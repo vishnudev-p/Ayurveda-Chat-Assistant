@@ -27,11 +27,11 @@ It uses **RAG architecture** to retrieve relevant information, rerank responses,
 
 ## 🎥 Demo Interface
 
-Watch the working demo here:  
-👉 [🎬 Ayurveda Chat Assistant Demo](assets/ayurveda-chat-demo.mp4)
+Here’s a quick look at the Ayurveda Chat Assistant in action 👇  
 
-*(Replace this path with your actual demo video or YouTube link.)*  
-Example: `/assets/ayurveda-chat-demo.mp4` or `https://youtu.be/your-demo-link`
+<video src="assets/ayurveda-chat-demo.mp4" controls="controls" width="100%" height="auto"></video>
+
+*(The video above will play directly in GitHub UI. If it doesn’t, ensure the `.mp4` file is committed to `/assets/` folder in your repository.)*
 
 ---
 
@@ -73,8 +73,6 @@ Example: `/assets/ayurveda-chat-demo.mp4` or `https://youtu.be/your-demo-link`
  ┌──────────────────────────┐
  │   Generator (Gemma/Mistral) │ → Generate Ayurvedic answer
  └──────────────────────────┘
-
-
 MIT License
 
 Copyright (c) 2025
