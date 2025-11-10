@@ -235,7 +235,7 @@ If you want to run the backend locally on Windows:
 
 The frontend connects to the backend at:
 ```
-https://machineless-saran-torquate.ngrok-free.dev/generate
+https://your-ngrok-link.ngrok-free.app
 ```
 
 To change the backend URL, edit `client/src/pages/Chat.tsx` (line 134):
@@ -304,4 +304,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 >>>>>>> 92b65625319f72f3bf452a3372bde9b44ab931a8
+
 
